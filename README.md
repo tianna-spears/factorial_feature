@@ -1,6 +1,9 @@
-This is a project to practice Intermediate Javascript with a focus on test-driven development using Mocha testing. Other topics also practiced during this project are using the assert module, mocha testing library to drive development using tests that follow the setup, exercise, and verification test phases.
+This is a project by Codecademy to practice Intermediate Javascript with a focus on test-driven development using Mocha. This is Unit 4/5 of the Front-End Developer Career Path.
 
-This is Unit 4/5 of the Front-End Developer Career Path.
+Other topics practiced during this project: 
+- Mocha keyword (Describe, It, Assert)
+- TDD cycle (Red, Green, Refactor)
+- Mocha test phases (Setup, Exercise, Verify)
 
 The index_test.js and index.js code was built by me. 
 
